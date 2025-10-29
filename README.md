@@ -1,4 +1,4 @@
-# IS2101-IntruptedsIm-NNM24IS199
+# IS2101-IntruptedSim-NNM24IS199
 markdown
 # Interrupt Controller Simulation (Java)
 
